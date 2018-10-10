@@ -7,3 +7,4 @@ iphone苹果
 写点什么呢：
 feature1:改动
 我想买SSD
+do git command
