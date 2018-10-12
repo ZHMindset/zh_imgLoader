@@ -1,2 +1,4 @@
 log -p
 log --stat
+log show
+log diff 可以看出当前工作目录中添加的但是还没有add进去的内容和暂存区（add却没有commit的内容）之间的情况，及即将被add的内容
